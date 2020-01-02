@@ -32,7 +32,7 @@ const markAsComputed = input => {
 
 let lastChanges = [ratioInput, beansInput];
 
-let beans = 8;
+let beans = 15;
 let ratio = 16;
 let water = calculateWater(beans, ratio);
 let coffee = calculateCoffee(water);
